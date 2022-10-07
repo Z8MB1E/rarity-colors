@@ -5,13 +5,19 @@
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": 9,
+    "verified": "10",
+  }
   "authors": [
     {
       "name": "Kandashi",
       "url": "https://github.com/kandashi",
       "discord": "Kandashi (He/Him)#6698"
+    },
+    {
+      "name": "Z8MB1E",
+      "url": "https://github.com/z8mb1e"
     }
   ],
   "languages": [
