@@ -1,40 +1,21 @@
 {
-  "name": "rarity-colors",
+  "id": "z8-rarity-colors",
   "title": "Rarity Colors",
-  "description": "Auto colors inventory items based on visibility",
-  "version": "This is auto replaced",
-  "library": "false",
-  "manifestPlusVersion": "1.0.0",
-  "compatibility": {
-    "minimum": 9,
-    "verified": "10",
-  }
+  "description": "Updated fork of the original Rarity Colors module.",
   "authors": [
     {
       "name": "Kandashi",
-      "url": "https://github.com/kandashi",
-      "discord": "Kandashi (He/Him)#6698"
-    },
-    {
-      "name": "Z8MB1E",
-      "url": "https://github.com/z8mb1e"
+      "url": "https://github.com/kandashi",	
+      "discord": "Kandashi (He/Him)#6698"	
+    },	
+    {	
+      "name": "Z8MB1E",	
+      "url": "https://github.com/z8mb1e"	
     }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
-  "esmodules": [
-    "/scripts/raritycolors.js",
-    "/scripts/settings.js"
-  ],
-  "styles": [
-    "/styles/raritycolors.css"
-  ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "9"
+  }
 }
