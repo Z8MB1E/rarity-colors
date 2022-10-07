@@ -1,0 +1,21 @@
+{
+  "id": "z8-rarity-colors",
+  "title": "Rarity Colors",
+  "description": "Updated fork of the original Rarity Colors module.",
+  "authors": [
+    {
+      "name": "Kandashi",
+      "url": "https://github.com/kandashi",	
+      "discord": "Kandashi (He/Him)#6698"	
+    },	
+    {	
+      "name": "Z8MB1E",	
+      "url": "https://github.com/z8mb1e"	
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "9"
+  }
+}
